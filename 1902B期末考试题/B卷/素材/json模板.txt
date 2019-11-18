@@ -1,0 +1,6 @@
+自己模拟json 
+    json模板
+        [{id:0,img:"图片路径",cont:"内容",price:"价格"},
+	{id:0,img:"图片路径",cont:"内容",price:"价格"},
+	{id:0,img:"图片路径",cont:"内容",price:"价格"},
+	{id:0,img:"图片路径",cont:"内容",price:"价格"}]
